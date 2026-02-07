@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+openai
+psycopg2-binary
+python-dotenv
+requests  
+pydantic
+sentence-transformers==3.3.1
+faiss-cpu==1.9.0.post1
+mysql-connector-python
+orjson
+asyncmy
+asyncpg
+rapidfuzz
+fuzzywuzzy 
+python-Levenshtein
